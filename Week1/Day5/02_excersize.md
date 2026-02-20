@@ -12,12 +12,12 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 **SAP Cloud provides automation features for businesses!**
 
 **What do you think SAP Cloud might automate?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Invoice procesisng, Payroll
+- Reporting
+- Order management
 
 **Why would businesses want automation?**
-> ___________________________________________
+> Save time, Reduce errors, lower costs, faster processing
 
 ---
 
@@ -28,26 +28,26 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 **1. SAP Intelligent RPA:**
 - **What it is:** Automates repetitive tasks using software bots
 - **What it does:** 
-  > ___________________________________________
+  > Extracts data, Transfers data between systems
 - **Example:** 
-  > ___________________________________________
+  > Bot reads invoices and enters them into SAP automatically
 
 **2. SAP Workflow Management:**
 - **What it is:** Automates business processes and workflows
 - **What it does:** 
-  > ___________________________________________
+  > Routes tasks to the right person, Tracks process status
 - **Example:** 
-  > ___________________________________________
+  > Purchase request automatically sent to manager for approval
 
 **3. SAP AI Business Services:**
 - **What it is:** Incorporates AI into automation for smarter decision-making
 - **What it does:** 
-  > ___________________________________________
+  > Predicts outcomes, classifies documents 
 - **Example:** 
-  > ___________________________________________
+  > AI detects suspicious transactions
 
 **Which feature interests you most?**
-> ___________________________________________
+> SAP AI Business
 
 ---
 
@@ -57,36 +57,46 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 
 **1. Automated Invoice Process in SAP:**
 - **What gets automated:** 
-  > ___________________________________________
+  > Data entry, Matching invoice to purchase order
 - **Steps in the process:**
-  1. ___________________________________________
-  2. ___________________________________________
-  3. ___________________________________________
+  1. Invoice received (email, upload)
+  2. System extracts data
+  3. Approval triggered if needed
+  4. Payment scheduled.
 - **Benefits:**
-  - ___________________________________________
-  - ___________________________________________
+  - Faster processing
+  - Fewer errors
+  - Lower workload
 
 **2. Automated Billing in SAP:**
 - **What gets automated:** 
-  > ___________________________________________
+  > Bill generation
+  > Sending invoices
+  
 - **Steps in the process:**
-  1. ___________________________________________
-  2. ___________________________________________
-  3. ___________________________________________
+  1. Service/product delivered
+  2. System generates invoice
+  3. invoice sent automatically
+  4. Due date tracken
+     
 - **Benefits:**
-  - ___________________________________________
-  - ___________________________________________
+  - Consistency
+  - Time savings
+  - Improved cash flow
 
 **3. Automated Allocation of Payments in SAP:**
 - **What gets automated:** 
-  > ___________________________________________
+  > Matching incoming payments to invoices
+  
 - **Steps in the process:**
-  1. ___________________________________________
-  2. ___________________________________________
-  3. ___________________________________________
+  1. Payment received.
+  2. System scans reference number.
+  3. Invoice matched automatically.
+  4. Account updated.
+     
 - **Benefits:**
-  - ___________________________________________
-  - ___________________________________________
+  - Reduced manual work
+  - Accurate financial records
 
 ---
 
@@ -99,25 +109,25 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 **1. Technology/Tools:**
 - **What:** Software or hardware that does the work
 - **Example:** 
-  > ___________________________________________
+  > ________________SAP system, bots, AI modules___________________________
 
 **2. Rules/Logic:**
 - **What:** Instructions on what to do
 - **Example:** 
-  > ___________________________________________
-
+  > _____________If invoice matches payment approve automatically
+  
 **3. Triggers:**
 - **What:** What starts the automation
 - **Example:** 
-  > ___________________________________________
+  > _______Invoice uploaded or Payment received___
 
 **4. Monitoring:**
 - **What:** Checking if automation works correctly
 - **Example:** 
-  > ___________________________________________
-
+  > ______Dashboard shows status, Alerts if errors occur_______________
+  
 **Can you think of how these work together?**
-> ___________________________________________
+> Trigger starts the process → Rules guide the system → Technology executes → Monitoring checks results.
 
 ---
 
@@ -128,28 +138,28 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 **Key Points from This Week:**
 
 **1. Technology Basics:**
-> ___________________________________________
+> Foundation of digital systems.
 
 **2. Blockchain:**
-> ___________________________________________
+> Secure, decentralized data storage.
 
 **3. Cloud Computing:**
-> ___________________________________________
+> Remote storage and computing power.
 
 **4. SAP Cloud:**
-> ___________________________________________
+> Business platform in the cloud.
 
 **5. Technology Evolution:**
-> ___________________________________________
+> Systems become smarter and integrated.
 
 **6. Artificial Intelligence:**
-> ___________________________________________
+> Machines that learn and decide.
 
 **7. Robotics & Automation:**
-> ___________________________________________
+> Machines/software performing tasks automatically.
 
 **8. Integration:**
-> ___________________________________________
+> Connecting systems to work together.
 
 ---
 
@@ -166,38 +176,14 @@ Welcome back! Now let's explore **how SAP uses automation** and review what we'v
 ```
 
 **Explain the connections:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Technology enables cloud systems.
+> Cloud enables SAP Cloud platforms.
+> SAP Cloud integrates AI.
+> AI improves automation.
+> All systems connect through integration and data exchange.
 
 **Key Conclusion:**
 Technology evolves constantly to meet human demands. Systems like SAP evolve into intuitive and sophisticated databases, integrating with other systems and technologies. Technologies like blockchain, cloud computing, and SAP cloud provide solutions for expanding information and databases that would be impossible to store on a simple computer.
-
----
-
-## 🎮 Activity 7: Final Reflection
-
-### Week 1 Review
-
-**What was the most interesting thing you learned?**
-
-> ___________________________________________
-
-**What was the most useful thing?**
-
-> ___________________________________________
-
-**What surprised you most?**
-
-> ___________________________________________
-
-**What would you like to learn more about?**
-
-> ___________________________________________
-
-**How will you use what you learned?**
-
-> ___________________________________________
 
 ---
 
@@ -219,19 +205,7 @@ Technology evolves constantly to meet human demands. Systems like SAP evolve int
 
 ---
 
-## 📝 Final Notes
 
-**Key Takeaway:**
-> ___________________________________________
-
-**Remember:**
-> ___________________________________________
-
-**Questions for Next Week:**
-- ___________________________________________
-- ___________________________________________
-
----
 
 ## 🎉 Great Job!
 
