@@ -13,8 +13,8 @@ This week covers **SAP Product Strategy, Modules, and Enterprise Systems** in li
 
 | Day | Slides | Topics |
 |-----|--------|--------|
-| **Day 1 (Monday)** | 1–14 | SAP Product Strategy & Functional Knowledge, SAP Modules (Functional vs Technical), CRM example, Technical Modules, Industry applications (Retail, Healthcare, Automotive) |
-| Day 2 (Tuesday) | 15–25 | Enterprise Systems Environment, Digital Transformation |
+| **Day 1 (Monday)** | 1–11 | SAP Product Strategy & Functional Knowledge, SAP Modules (Functional vs Technical), CRM example *(Day 1 ends at slide 11)* |
+| **Day 2 (Tuesday)** | 12–25 | Technical Modules (development, integration, system administration); Application of SAP Modules / industry; Enterprise Systems Environment; Digital Transformation |
 | Day 3 (Wednesday) | 26–33 | Business Goals & Process Alignment, Business Processes, Process Mapping & Redesign |
 | Day 4 (Thursday) | 34–42 | Business Requirements, Organizational Alignment, Operating Systems, Elastic Computing |
 | Day 5 (Friday) | 43–51 | Applications & APIs, Customer Experience Design, Information Security, Recap |
@@ -39,9 +39,27 @@ This week covers **SAP Product Strategy, Modules, and Enterprise Systems** in li
 
 ---
 
+## 📅 Day 2 (Tuesday) – Technical Modules & Digital Transformation
+
+**Slide focus:** 12–25 *(starting from slide 12 – Technical Modules)*
+
+**Learning:**
+- [01_learning_technical_modules.md](Day2/01_learning_technical_modules.md) – Technical Modules (development, integration, system administration)
+- [02_learning_digital_transformation.md](Day2/02_learning_digital_transformation.md) – Enterprise Systems Environment & Digital Transformation
+
+**Exercises:**
+- [03_exercise_technical_and_digital.md](Day2/03_exercise_technical_and_digital.md) – Technical modules & digital transformation matching and before/after
+- [04_exercise_group_digital_impact.md](Day2/04_exercise_group_digital_impact.md) – Group: 3 scenarios (Retail, Manufacturing, Healthcare) – 3 different activities for 3 groups
+
+**Optional:**
+- [05_exercise_optional_digital_one_pager.md](Day2/05_exercise_optional_digital_one_pager.md) – *(Optional)* Digital Transformation One-Pager
+- [06_exercise_optional_culture_check.md](Day2/06_exercise_optional_culture_check.md) – *(Optional)* Culture Check (agility & innovation)
+
+---
+
 ## 🚀 Next Days
 
-- **Day 2–5:** Materials will be added as created. Follow the same pattern: learning files first, then exercises, then optional exercises.
+- **Day 3–5:** Materials will be added as created. Group exercises will each have **3 different activities for 3 groups**.
 
 ---
 
