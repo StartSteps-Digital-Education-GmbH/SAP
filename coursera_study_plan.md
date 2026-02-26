@@ -6,6 +6,9 @@ This plan helps you complete the **SAP Technology Consultant Professional Certif
 - **Optional extra time:** up to **1 hour in the morning session** on some days when lessons finish early  
 - If you follow this plan, you should comfortably finish all **7 Coursera courses** by the end of **Week 6**.
 
+Coursera course link:  
+- [SAP Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/sap-technology-consultant#courses)
+
 ---
 
 ### Weekly Overview

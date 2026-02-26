@@ -41,7 +41,7 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 
 ---
 
-### Week 2: Understanding Technology - Workshop & SAP Technology Consultant
+### Week 2: SAP Technology Consultant
 **Dates:** 23–27 February 2026
 
 **Location:** [Week2/](Week2/) folder
@@ -64,9 +64,9 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 - **Week 5:** 16-20 March
 - **Week 6:** 23-27 March (includes Implementing Joule Workshop on Thu-Fri)
 
-During Weeks 2–6, afternoons are used for the **SAP Technology Consultant Professional Certificate** on Coursera.  
-For a student-friendly pacing plan, see:  
-- [Coursera Study Plan (Weeks 2–6)](coursera_study_plan.md)
+During Weeks 2–6, afternoons are used for the **SAP Technology Consultant Professional Certificate** on Coursera:  
+- Coursera course: [SAP Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/sap-technology-consultant#courses)  
+- Student pacing guide: [Coursera Study Plan (Weeks 2–6)](coursera_study_plan.md)
 
 ---
 
@@ -74,46 +74,21 @@ For a student-friendly pacing plan, see:
 
 ```
 SAP/
-├── README.md                    # This file - Course overview
+├── README.md                    # This file - course overview and navigation
 ├── curriculum.md                # Detailed course schedule
-├── .gitignore                   # Git ignore rules
 ├── Week1/                       # Week 1 exercises and materials
-│   ├── README.md               # Week 1 exercise guide
-│   ├── Day1/                   # Day 1 exercises
-│   ├── Day2/                   # Day 2 exercises
-│   ├── Day3/                   # Day 3 exercises
-│   ├── Day4/                   # Day 4 exercises
-│   └── Day5/                   # Day 5 exercises
+│   └── README.md               # Week 1 exercise guide and links
 ├── Week2/                       # Week 2 morning sessions (afternoon = Coursera)
-│   ├── README.md               # Week 2 guide, slide–day map
-│   ├── Day1/                   # Day 1 (Monday) – SAP Product Strategy & Modules
-│   ├── Day2/                   # Day 2 (Tuesday) – Technical Modules & Digital Transformation
-│   ├── Day3/                   # Day 3 (Wednesday) – Business Goals & Process Alignment
-│   ├── Day4/                   # Day 4 (Thursday) – Business Requirements, Alignment, OS & Elastic
-│   └── Day5/                   # Day 5 (Friday) – Applications & APIs, CX, Security, Recap
-├── drafts/                      # Draft materials and source files
-│   ├── Understanding Technology 1.pptx
-│   ├── Understanding Technology 2.pptx
-│   ├── SAP Tech Consultant Coursera 1.pptx
-│   ├── SAP Tech Consultant Coursera 2.pptx
-│   ├── SAP Tech Consultant Coursera 3.pptx
-│   ├── coursera notes 1.docx.md
-│   └── coursera notes 2.docx.md
-└── [Future Weeks]/             # Materials for upcoming weeks
+│   └── README.md               # Week 2 guide, slide–day map, links
+└── coursera_study_plan.md      # Coursera pacing plan for Weeks 2–6
 ```
 
 ### Quick Navigation
 
 - [📋 Course Curriculum](curriculum.md) - Complete course schedule
-- [📖 Week 1 Exercise Guide](Week1/README.md) - Detailed Week 1 exercises
-- [📁 Week 1 Exercises](Week1/) - All Week 1 exercise files
-- [📖 Week 2 Morning Sessions Guide](Week2/README.md) - Week 2 guide (slide–day map, Coursera link)
-- [📁 Week 2 Day 1 (Monday)](Week2/Day1/) - SAP Product Strategy & Modules (learning + exercises + optional)
-- [📁 Week 2 Day 2 (Tuesday)](Week2/Day2/) - Technical Modules & Digital Transformation (learning + exercises + optional; group exercise: 3 activities for 3 groups)
-- [📁 Week 2 Day 3 (Wednesday)](Week2/Day3/) - Business Goals & Process Alignment (learning + exercises + optional; group exercise: 3 activities for 3 groups)
-- [📁 Week 2 Day 4 (Thursday)](Week2/Day4/) - Business Requirements, Alignment, OS & Elastic Computing (learning + exercises + optional; group exercise: 3 activities for 3 groups)
-- [📁 Week 2 Day 5 (Friday)](Week2/Day5/) - Applications & APIs, CX, Security, Recap (learning + exercises + optional; group exercise: 3 activities for 3 groups)
-- [📚 Draft Materials](drafts/) - Source files and course notes
+- [📖 Week 1 Exercise Guide](Week1/README.md) - Detailed Week 1 exercises and daily plan
+- [📖 Week 2 Morning Sessions Guide](Week2/README.md) - Week 2 morning sessions (slide–day map, links)
+- [🎓 Coursera Study Plan (Weeks 2–6)](coursera_study_plan.md) - How to pace your Coursera work
 
 ---
 
@@ -142,33 +117,22 @@ Each week contains daily exercises designed for:
 1. **Navigate to your week's folder** (e.g., `Week1/`)
 2. **Read the week's README** for an overview of topics and exercises
 3. **Complete exercises during online sessions** as instructed
-4. **Use the drafts folder** for reference materials and slides
 
 ### For Instructors
 
 1. **Review the curriculum.md** for the complete course schedule
 2. **Check weekly README files** for exercise details
-3. **Use drafts folder** for source materials and presentations
-4. **Customize exercises** as needed for your class
+3. **Customize exercises** as needed for your class
 
 ---
 
 ## 📚 Resources
 
-### Course Materials
-
-- **Slides:** Source files available in drafts folder (not in repository)
-  - Understanding Technology 1.pptx - Week 1, Days 1-3
-  - Understanding Technology 2.pptx - Week 1, Days 4-5
-  - SAP Tech Consultant Coursera 1-3.pptx - Weeks 2-6
-
-- **Course Notes:** Source files available in drafts folder (not in repository)
-
 ### Exercise Files
 
 - **Week 1:** Complete set of exercises in [Week1/](Week1/) folder
   - See [Week 1 README](Week1/README.md) for all exercise links
-- **Future Weeks:** Will be added as the course progresses
+- **Week 2:** Morning sessions and exercises in [Week2/](Week2/) folder (see [Week 2 README](Week2/README.md))
 
 ---
 
@@ -210,7 +174,6 @@ For questions or issues:
 1. **Start with Week 1** - Review [Week1/README.md](Week1/README.md) for detailed exercise guide
 2. **Follow the curriculum** - Check [curriculum.md](curriculum.md) for daily schedule
 3. **Complete exercises** - Work through exercises during online sessions (click links above to access)
-4. **Review materials** - Use [drafts/](drafts/) folder for reference
 
 ---
 
