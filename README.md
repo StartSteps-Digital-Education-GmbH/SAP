@@ -18,13 +18,7 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 ## 📅 Course Structure
 
 ### Week 1: Understanding Technology
-**Dates:** 17-20 February 2026
-
-- **Monday, 17 Feb:** Understanding Technology
-- **Tuesday, 18 Feb:** Understanding Technology
-- **Wednesday, 19 Feb:** Understanding Technology
-- **Thursday, 20 Feb:** Understanding Technology
-- **Friday, 21 Feb:** Understanding Technology
+**Dates:** 17–20 February 2026
 
 **Topics Covered:**
 - Technology Basics and Terminology
@@ -48,19 +42,17 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 ---
 
 ### Week 2: Understanding Technology - Workshop & SAP Technology Consultant
-**Dates:** 23-27 February 2026
-
-- **Monday, 23 Feb:** Understanding Technology - Workshop on Cloud Computing
-- **Tuesday, 24 Feb:** SAP Technology Consultant Professional Certificate
-- **Wednesday, 25 Feb:** SAP Technology Consultant Professional Certificate
-- **Thursday, 26 Feb:** SAP Technology Consultant Professional Certificate
-- **Friday, 27 Feb:** SAP Technology Consultant Professional Certificate
+**Dates:** 23–27 February 2026
 
 **Location:** [Week2/](Week2/) folder
 
 **Quick Links:**
 - [Week 2 Morning Sessions Guide](Week2/README.md)
 - [Day 1 (Monday) – SAP Product Strategy & Modules](Week2/Day1/)
+- [Day 2 (Tuesday) – Technical Modules & Digital Transformation](Week2/Day2/)
+- [Day 3 (Wednesday) – Business Goals & Process Alignment](Week2/Day3/)
+- [Day 4 (Thursday) – Business Requirements, Alignment, OS & Elastic Computing](Week2/Day4/)
+- [Day 5 (Friday) – Applications & APIs, CX, Security, Recap](Week2/Day5/)
 
 ---
 
@@ -71,6 +63,10 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 - **Week 4:** 9-13 March
 - **Week 5:** 16-20 March
 - **Week 6:** 23-27 March (includes Implementing Joule Workshop on Thu-Fri)
+
+During Weeks 2–6, afternoons are used for the **SAP Technology Consultant Professional Certificate** on Coursera.  
+For a student-friendly pacing plan, see:  
+- [Coursera Study Plan (Weeks 2–6)](coursera_study_plan.md)
 
 ---
 
@@ -117,11 +113,6 @@ SAP/
 - [📁 Week 2 Day 3 (Wednesday)](Week2/Day3/) - Business Goals & Process Alignment (learning + exercises + optional; group exercise: 3 activities for 3 groups)
 - [📁 Week 2 Day 4 (Thursday)](Week2/Day4/) - Business Requirements, Alignment, OS & Elastic Computing (learning + exercises + optional; group exercise: 3 activities for 3 groups)
 - [📁 Week 2 Day 5 (Friday)](Week2/Day5/) - Applications & APIs, CX, Security, Recap (learning + exercises + optional; group exercise: 3 activities for 3 groups)
-  - [Day 1](Week1/Day1/) - [Exercise 1](Week1/Day1/01_excersize.md) | [Exercise 2](Week1/Day1/02_excersize.md) | [Exercise 3](Week1/Day1/03_excersize.md) | [Exercise 4](Week1/Day1/04_excersize.md)
-  - [Day 2](Week1/Day2/) - [Exercise 1](Week1/Day2/01_excersize.md) | [Exercise 2](Week1/Day2/02_excersize.md) | [Exercise 3](Week1/Day2/03_excersize.md)
-  - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md) | [Exercise 2](Week1/Day3/02_excersize.md) | [Exercise 3](Week1/Day3/03_excersize.md) | [Afternoon Session 1](Week1/Day3/04_afternoon_session.md) | [Afternoon Session 2](Week1/Day3/05_afternoon_session_sap_basics.md)
-  - [Day 4](Week1/Day4/) - [Exercise 1](Week1/Day4/01_excersize.md) | [Exercise 2](Week1/Day4/02_excersize.md) | [Exercise 3](Week1/Day4/03_excersize.md) | [Afternoon Session 1](Week1/Day4/04_afternoon_session.md) | [Afternoon Session 2](Week1/Day4/05_afternoon_session_business_processes.md) | [Afternoon Session 3](Week1/Day4/06_afternoon_session_rpa_applications.md) | [Afternoon Session 4](Week1/Day4/07_afternoon_session_operating_systems.md) | [Afternoon Session 5](Week1/Day4/08_afternoon_session_sap_automated_processes.md) | [Afternoon Session 6](Week1/Day4/09_afternoon_session_security_basics.md)
-  - [Day 5](Week1/Day5/) - [Exercise 1](Week1/Day5/01_excersize.md) | [Exercise 2](Week1/Day5/02_excersize.md) | [Learning: SAP Activate](Week1/Day5/03_learning_sap_activate.md) | [Learning: Project Management](Week1/Day5/04_learning_project_management.md) | [Learning: BPM](Week1/Day5/05_learning_business_process_management.md) | [Exercise: SAP Activate](Week1/Day5/06_excersize_sap_activate.md) | [Exercise: Project Management](Week1/Day5/07_excersize_project_management.md) | [Exercise: BPM](Week1/Day5/08_excersize_business_process_management.md) | [Learning: SAP Evolution](Week1/Day5/09_learning_sap_evolution.md) | [Exercise: SAP Evolution](Week1/Day5/10_excersize_sap_evolution.md) | [Afternoon Session 1](Week1/Day5/11_afternoon_session.md) | [Afternoon Session 2](Week1/Day5/12_afternoon_session_digital_transformation.md) | [Afternoon Session 3](Week1/Day5/13_afternoon_session_automation_design.md) | [Afternoon Session 4](Week1/Day5/14_afternoon_session_applications_apis.md) | [Afternoon Session 5](Week1/Day5/15_afternoon_session_week1_integration.md) | [Afternoon Session 6](Week1/Day5/16_afternoon_session_customer_experience.md)
 - [📚 Draft Materials](drafts/) - Source files and course notes
 
 ---
