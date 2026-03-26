@@ -46,9 +46,9 @@ Welcome to the SAP Extended Warehouse Management training course repository! Thi
 **Dates:** 2 March - 27 March 2026
 
 - **Week 3:** 2-6 March – [Week 3 Morning Sessions Guide](Week3/README.md) (SAP Platform, Cloud, Design Foundation)
-- **Week 4:** 9-13 March
-- **Week 5:** 16-20 March
-- **Week 6:** 23-27 March (includes Implementing Joule Workshop on Thu-Fri)
+- **Week 4:** 9-13 March – [Week 4 Morning Sessions Guide](Week4/README.md) (Design Deep Dive, Fiori, Technical Design)
+- **Week 5:** 16-20 March – [Week 5 Morning Sessions Guide](Week5/README.md) (Implementation Lifecycle, RISE, Testing & Automation)
+- **Week 6:** 23-27 March – [Week 6 Morning Sessions Guide](Week6/README.md) (Joule + Program Wrap-up)
 
 During Weeks 2–6, afternoons are used for the **SAP Technology Consultant Professional Certificate** on Coursera:  
 - Coursera course: [SAP Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/sap-technology-consultant#courses)  
@@ -68,6 +68,12 @@ SAP/
 │   └── README.md               # Week 2 guide, slide–day map, links
 ├── Week3/                       # Week 3 morning sessions (SAP Platform, Cloud, Design)
 │   └── README.md               # Week 3 guide, slide–day map, links
+├── Week4/                       # Week 4 morning sessions (Design Deep Dive, Fiori, Technical Design)
+│   └── README.md               # Week 4 guide, slide–day map, links
+├── Week5/                       # Week 5 morning sessions (Implementation Lifecycle, RISE, Testing & Automation)
+│   └── README.md               # Week 5 guide, slide–day map, links
+└── Week6/                       # Week 6 wrap-up (Joule + final consolidation)
+    └── README.md               # Week 6 guide, links
 └── coursera_study_plan.md      # Coursera pacing plan for Weeks 2–6
 ```
 
@@ -77,6 +83,9 @@ SAP/
 - [📖 Week 1 Exercise Guide](Week1/README.md) - Detailed Week 1 exercises and daily plan
 - [📖 Week 2 Morning Sessions Guide](Week2/README.md) - Week 2 morning sessions (slide–day map, links)
 - [📖 Week 3 Morning Sessions Guide](Week3/README.md) - Week 3 morning sessions (SAP Platform, Cloud, Design Foundation)
+- [📖 Week 4 Morning Sessions Guide](Week4/README.md) - Week 4 morning sessions (design deep dive + technical design)
+- [📖 Week 5 Morning Sessions Guide](Week5/README.md) - Week 5 morning sessions (implementation + testing/automation)
+- [📖 Week 6 Morning Sessions Guide](Week6/README.md) - Week 6 morning sessions (Joule + program wrap-up)
 - [🎓 Coursera Study Plan (Weeks 2–6)](coursera_study_plan.md) - How to pace your Coursera work
 
 ---
