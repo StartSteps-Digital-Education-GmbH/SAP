@@ -10,14 +10,14 @@ Welcome to Day 5! Today we're learning about **Robotics and Automation** - how t
 ### Before We Start
 
 **When you hear "Robotics," what do you think of?**
-- [ ] Physical robots
+- [*] Physical robots
 - [ ] Factory robots
 - [ ] Robot vacuum cleaners
 - [ ] Something complicated
 - [ ] Other: ___________________________________________
 
 **Your definition of robotics:**
-> ___________________________________________
+> Robotics is building and using machines that can do tasks automatically.
 
 ---
 
@@ -43,7 +43,7 @@ Robotics = Making and using robots that can do tasks by themselves!
 - Delivery robots
 
 **Can you think of another example?**
-> ___________________________________________
+> self driving car
 
 ---
 
@@ -54,26 +54,26 @@ Robotics = Making and using robots that can do tasks by themselves!
 **ROBOTICS:**
 - **Focus:** Physical robots performing tasks
 - **Example:** 
-  > ___________________________________________
+  > ______________Industrial robot arm (physical robots)
 
 **AUTOMATION:**
 - **Focus:** Can involve both software (RPA) and hardware automation, not necessarily robots
 - **Example:** 
-  > ___________________________________________
+  > ___________________Automatic email reply (automatic processes)
 
 **AI:**
-- **Focus:** Intelligence and decision-making capabilities applied to various fields, including robotics
+- **Focus:** Intelligence and decision-making capabilit ies applied to various fields, including robotics
 - **Example:** 
-  > ___________________________________________
+  > ___________________Chatbot (smart decision making)
 
 **Fill in the table:**
 
-| Feature | Robotics | Automation | AI |
-|---------|----------|------------|-----|
-| **Physical robot?** | | | |
-| **Can be software?** | | | |
-| **Makes decisions?** | | | |
-| **Example** | | | |
+| Feature |             Robotics | Automation | AI |
+|---------|----------|-----------|------------|-----|
+| **Physical robot?**       yes    not always  no
+| **Can be software?** sometimes   yes         yes
+| **Makes decisions?**  no         rule based   yes
+| **Example**          robot arm    backup     voice assistant
 
 **How are they related?**
 > ___________________________________________
@@ -100,7 +100,7 @@ Robotics = Making and using robots that can do tasks by themselves!
 - **Automated:** Email app checks for you and notifies you
 
 **Can you think of another example?**
-> ___________________________________________
+> Lights that turn on when we enter a room
 
 ---
 
@@ -109,24 +109,24 @@ Robotics = Making and using robots that can do tasks by themselves!
 ### Find Examples Around You
 
 **1. At Home:**
-- Example: ___________________________________________
+- Example: _________________washing machine__________________________
 - What it does automatically: 
-  > ___________________________________________
+  > _____________washes clothes automatically______________________________
 
 **2. On Your Phone:**
-- Example: ___________________________________________
+- Example: ___________Alarm________________________________
 - What it does automatically: 
-  > ___________________________________________
+  > _______________rings at set time____________________________
 
 **3. At Work/School:**
-- Example: ___________________________________________
+- Example: ____________email auto-reply_______________________________
 - What it does automatically: 
-  > ___________________________________________
+  > __________sends responses automatically_________________________________
 
 **4. Online:**
-- Example: ___________________________________________
+- Example: ___________online shopping recommendations_________________
 - What it does automatically: 
-  > ___________________________________________
+  > ________________suggests products automatically ___________________
 
 ---
 
@@ -137,18 +137,18 @@ Robotics = Making and using robots that can do tasks by themselves!
 **Task:** Paying a bill
 
 **Manual Way:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Receive the paper or email bill.
+2. Go to the bank
+3. Enter payment details
+4. Save or print the receipt.
 
 **Automated Way:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Activate automatic payment (set up once).
+2. Choose payment date
+3. You receive a confirmation notification
 
 **Which is easier? Why?**
-> ___________________________________________
+> Automated- faster, saver and saves time
 
 ---
 
@@ -160,18 +160,18 @@ Robotics = Making and using robots that can do tasks by themselves!
 
 | Benefit | Example | Your Match |
 |---------|---------|------------|
-| **Saves Time** | A. Automatic backup happens while you sleep | _____ |
-| **Reduces Errors** | B. System checks everything twice | _____ |
-| **Works 24/7** | C. No need to remember to do it | _____ |
-| **Consistent** | D. Always does it the same way | _____ |
-| **Frees You Up** | E. You can focus on other things | _____ |
+| **Saves Time** | A. Automatic backup happens while you sleep | __C___ |
+| **Reduces Errors** | B. System checks everything twice | __B___ |
+| **Works 24/7** | C. No need to remember to do it | __A___ |
+| **Consistent** | D. Always does it the same way | ___D__ |
+| **Frees You Up** | E. You can focus on other things | __E___ |
 
 **Write your answers:**
-- Saves Time: _____
-- Reduces Errors: _____
-- Works 24/7: _____
-- Consistent: _____
-- Frees You Up: _____
+- Saves Time: __C___
+- Reduces Errors: __B___
+- Works 24/7: __A___
+- Consistent: ___D__
+- Frees You Up: __E___
 
 ---
 
@@ -179,15 +179,15 @@ Robotics = Making and using robots that can do tasks by themselves!
 
 **What surprised you about robotics and automation?**
 
-> ___________________________________________
+> it is everywhere in our daily life
 
 **What automation would help you most?**
 
-> ___________________________________________
+> Automatic bill payment
 
 **What questions do you have?**
 
-> ___________________________________________
+> will robots replace us and our jobs in the future?
 
 ---
 
